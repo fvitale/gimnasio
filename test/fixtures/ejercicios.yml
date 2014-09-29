@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nombre: MyString
+  puntos: 1
+  rutina_id: 1
+
+two:
+  nombre: MyString
+  puntos: 1
+  rutina_id: 1
